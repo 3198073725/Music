@@ -1,0 +1,4 @@
+/dist/
+/node_modules/
+/public/
+/src/pages/DiscoverViews/MusicViews/BlogView.vue
